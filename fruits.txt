@@ -1,7 +1,6 @@
-FRUITS
-
 apples
 berries
 cherries
 mango
 orange
+grapes
