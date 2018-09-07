@@ -3,3 +3,6 @@ COLORS
 blue
 red
 white
+green
+yellow
+
